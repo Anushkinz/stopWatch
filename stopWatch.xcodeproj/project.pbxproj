@@ -11,6 +11,7 @@
 		84AFD0B226524E580086321E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AFD0B126524E580086321E /* ContentView.swift */; };
 		84AFD0B426524E5A0086321E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84AFD0B326524E5A0086321E /* Assets.xcassets */; };
 		84AFD0B726524E5A0086321E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84AFD0B626524E5A0086321E /* Preview Assets.xcassets */; };
+		84AFD0C02652513C0086321E /* StopWatchManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AFD0BF2652513C0086321E /* StopWatchManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		84AFD0B326524E5A0086321E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84AFD0B626524E5A0086321E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		84AFD0B826524E5A0086321E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84AFD0BF2652513C0086321E /* StopWatchManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopWatchManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				84AFD0AF26524E580086321E /* stopWatchApp.swift */,
 				84AFD0B126524E580086321E /* ContentView.swift */,
+				84AFD0BF2652513C0086321E /* StopWatchManager.swift */,
 				84AFD0B326524E5A0086321E /* Assets.xcassets */,
 				84AFD0B826524E5A0086321E /* Info.plist */,
 				84AFD0B526524E5A0086321E /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84AFD0B226524E580086321E /* ContentView.swift in Sources */,
+				84AFD0C02652513C0086321E /* StopWatchManager.swift in Sources */,
 				84AFD0B026524E580086321E /* stopWatchApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
